@@ -1,0 +1,79 @@
+Centro Ambiental:
+    order: east to west
+    spaces:
+        - Kitchen
+        - Dining Room
+        - Meeting Room
+        - Game Room
+
+Kitchen:
+    order: north to south
+    spaces:
+        - Kitchen Entry
+        - Cutting Station
+        - Dishroom
+        - Stovetops
+
+Kitchen Entry:
+    order: east to west
+    spaces:
+        - Entry Light Switches
+        - Medical Box
+        - Delivery Place (on the floor below the medical box; shared with Cutting Station)
+        - Steps
+        - Entry Shelves
+
+Cutting Station:
+    - level: floor
+      order: left to right
+      spaces:
+        - Delivery Place (on the floor below the medical box; shared with The Kitchen Entry)
+        - Tall Pantry
+        - Short Pantry
+        - Missing Drawer (above Short Pantry, on the left; NEEDS REPAIR)
+        - Rag Drawer (above Short Pantry, on the right)
+        - Board Cubby
+    - level: waist to eye
+      order: bottom to top
+      spaces:
+        - Cutting Counter
+        - Flower Drawers
+        - Long Rack (shared with The Dishroom)
+    - level: above eye
+      order: left to right
+        - Carb Cabinet
+        - Fat Cabinet
+        - Protein Cabinet
+    - level: overhead
+      spaces:
+        - Round Rack
+
+Dishroom:
+    - level: floor
+      side: east
+      order: left to right
+      spaces:
+        - Big Pantry
+        - Cleaning Storage
+    - level: waist
+      side: east
+      order: left to right
+      spaces:
+        - Dirty Dishes
+        - Dirty Sink
+        - Clean Sink
+        - Clean Dishes
+    - level: eye
+      side: east
+      order: left to right
+      spaces:
+        - Long Rack (shared with Cutting Station)
+        - Kitchen Altar
+        - Dish Rack
+        - Kitchen Light Switches
+    - side: west
+      order: bottom to top
+      spaces:
+        - Central Pot Shelves
+        - Central Shelves
+        - High Shelves
