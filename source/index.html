@@ -3,7 +3,8 @@ title: Centro Ambiental de Cabaços
 ---
 <html>
 <body>
-<p>This is another test:</p>
-{{ site.test }}
+{% for space in site.data.spaces %}
+{% include space.html %}
+{% endfor %}
 </body>
 </html>
