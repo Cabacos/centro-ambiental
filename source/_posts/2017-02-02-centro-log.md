@@ -65,21 +65,29 @@ First round:
 
 1. Kitchen reorganization
 2. Make lunch
-4. Write to Benjamin
-5. Do laundry
-6. Chimney hat
-7. Set up internet
-8. Set up Spencer's computer
-9. Cat situation (doors or temple)
-10. Come together for second round
+3. Write to Benjamin
+4. Do laundry (first part)
+5. Cat situation (doors or temple)
 
 Second round:
 
+1. Centro Ambiental account
+2. Take garbage to Vale Faro
+3. Town trip: grocery shopping / cash machine / tahini from Tamera
+
+Third round:
+
+1. Oven mud (NOTE: in planning we deferred this to tomorrow, but did some work on it today)
+2. Chimney hat
+3. Do laundry (second part)
+4. Community founding / archetype analysis (NOTE: WE FINISHED THE CONVERSATION! WOW!)
+5. Make dinner
+
+Deferred to tomorrow:
+
 * Kanban
-* Centro Ambiental account
-* Community founding / archetype analysis
-* Take garbage to Vale Faro
-* Town trip: grocery shopping / cash machine / tahini from Tamera
+* Set up internet
+* Set up Spencer's computer
 
 # Doing Circle
 
@@ -93,6 +101,16 @@ NOTE: Need bell to signal meals
 12:30 start cooking lunch
 NOTE: Manu will go to Odemira at 14:00, need to give him a shopping list
 NOTE: What about PHM?
+13:35 Spencer becomes treasurer
+NOTE: Spencer needs to talk with Manu about kitchen budget and shopping
+NOTE: No bell needed, we have a horn!
+NOTE: Spencer needs to ask for donations to the Centro Ambiental account
+13:59 Spencer donates 58 EUR to Centro Ambiental
+NOTE: Need hot water supply
+NOTE: Need to dispose of batteries
+16:20 Bought groceries
+NOTE: scattered after return
+17:03 returned, check-in
 
 ## Shopping List
 
@@ -102,3 +120,9 @@ Grão de Bico (dried chickpeas)
 (bananas)
 
 # Celebrating Circle
+
+Centro Ambiental account: great success! Spencer says, "I felt valued for being me!"
+
+Shopping list: two lightbulbs!
+
+Four Circles: thinking about what rhythm we want to be in as a group
