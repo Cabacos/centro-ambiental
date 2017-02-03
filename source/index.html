@@ -2,9 +2,19 @@
 title: Centro Ambiental de Cabaços
 ---
 <html>
+<head>
+<style>
+{% include style.css %}
+</style>
+</head>
 <body>
-{% for space in site.data.spaces %}
-{% include space.html %}
+{% for treasury in site.data.treasuries %}
+    <h1>{{ treasury[0] }}</h1>
+    {% assign sum = 0 %}
+    {% for log in treasury[1] %}
+        {% assign sum = sum | plus: log.amount %}
+    {% endfor %}
+    <div>Treasury balance: {{ sum }}</div>
 {% endfor %}
 </body>
 </html>
