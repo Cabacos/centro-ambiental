@@ -11,3 +11,7 @@ Centro Ambiental:
       amount: 50
       currency: EUR
       from: Diego
+    - date: 2017-02-02
+      amount: -58.40
+      currency: EUR
+      from: Grocery Shopping (Spencer, Cedric, Diego)
