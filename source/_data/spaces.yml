@@ -77,3 +77,28 @@ Dishroom:
         - Central Pot Shelves
         - Central Shelves
         - High Shelves
+
+Dining Room:
+    order: north to south
+    spaces:
+        - Snack Place
+        - Coolers
+        - Dining Table
+        - Patio
+
+Snack Place:
+    order: left to right
+    spaces:
+        - Snack Counter
+        - Snack Shelves
+
+Snack Counter:
+    order: bottom to top
+    spaces:
+        - Floor below the Snack Counter
+        - Snack Counter Drawers
+        - Snack Counter Surface
+        - Snack Cabinets
+
+Floor below the Snack Counter:
+    

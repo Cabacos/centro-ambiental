@@ -15,3 +15,7 @@ Centro Ambiental:
       amount: -58.40
       currency: EUR
       from: Grocery Shopping (Spencer, Cedric, Diego)
+    - date: 2017-02-04
+      amount: 20
+      currency: EUR
+      from: Money found in Centro Ambiental during Snack Place restoration
