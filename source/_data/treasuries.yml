@@ -19,3 +19,7 @@ Centro Ambiental:
       amount: 20
       currency: EUR
       from: Money found in Centro Ambiental during Snack Place restoration
+    - date: 2017-02-06
+      amount: 20
+      currency: EUR
+      from: Manon
