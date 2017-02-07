@@ -1,5 +1,7 @@
-food:
-    - source:
-        name: "Cedric Clitheroe"
-        email: "info@cedricwinterwolf.com"
-      quote: "Tomato acid eats upwards of 20% of the plastic off of the inside of the can before it gets to the store shelf. Therefore, if we eat canned tomato products. We eat plastic. This is not a happy thing."
+- source:
+    name: "Cedric Clitheroe"
+    email: "info@cedricwinterwolf.com"
+    subject:
+        food:
+            - "Tomato acid eats upwards of 20% of the plastic off of the inside of the can before it gets to the store shelf. Therefore, if we eat canned tomato products. We eat plastic. This is not a happy thing."
+            - "All oils have an optimal temperature of use. For example, olive oil is a low temp oil (warmed at most) and sunflower is a medium to high temp. When eaten out of their optimal range, they have negative effects and don't offer the same nutritional value. Olive oil at high temp breaks down into triglycerides. Boooo. Canola at low temp is a bad-fat. As a general rule, Olive oil is best for low temp, coconut oil for medium, and sunflower or canola at high temp."
