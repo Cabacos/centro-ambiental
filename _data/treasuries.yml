@@ -23,3 +23,7 @@ Centro Ambiental:
       amount: 20
       currency: EUR
       from: Manon
+    - date: 2017-02-08
+      amount: -10
+      currency: EUR
+      from: Taken back by Manon
