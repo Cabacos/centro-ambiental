@@ -3,31 +3,26 @@ title: Centro Ambiental de Cabaços
 ---
 <html>
 <head>
-<title>Centro Ambiental de Cabaços</title>
+<title>{{ page.title }}</title>
 <style>
 {% include style.css %}
 </style>
 </head>
 <body>
+    <h1>{{ page.title }}</h1>
 
-<div>
-{% for treasury in site.data.treasuries %}
-    <h1>{{ treasury[0] }}</h1>
-    {% assign sum = 0 %}
-    {% for log in treasury[1] %}
-        {% if log.currency == "EUR" %}
-            {% assign sum = sum | plus: log.amount %}
-        {% endif %}
-    {% endfor %}
-    <div>Treasury balance:</div>
-    <div>{{ sum }} EUR</div>
-{% endfor %}
-</div>
+    <div>
+        <a href="/money">
+            <div class="buttonbox">
+                Money
+            </div>
+        </a>
 
-<div>
-    <h1>Agreements:</h1>
-    <a href="agreements/electricity">Electricity Usage</a>
-</div>
-
+        <a href="/electricity">
+            <div class="buttonbox">
+                Electricity
+            </div>
+        </a>
+    </div>
 </body>
 </html>
