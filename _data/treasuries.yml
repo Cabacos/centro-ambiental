@@ -31,3 +31,7 @@ Treasury:
       amount: -6.54
       currency: EUR
       from: Ginger and soy sauce (Cedric, Maija)
+    - date: 2017-02-20
+      amount: -90
+      currency: EUR
+      from: Grocery Shopping (Manu)
